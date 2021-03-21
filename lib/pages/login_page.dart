@@ -1,8 +1,8 @@
-import 'package:chatapp/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 import 'package:chatapp/widgets/custom_input.dart';
 import 'package:chatapp/widgets/custom_labels.dart';
 import 'package:chatapp/widgets/custom_logo.dart';
+import 'package:chatapp/widgets/custom_button.dart';
 import 'package:chatapp/widgets/custom_terminos.dart';
 
 class LoginPage extends StatelessWidget {
